@@ -51,7 +51,7 @@ footer { border-top: 1px solid var(--border); margin-top: 64px; padding: 24px 0 
 footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: space-between; }
 footer a { color: var(--muted); }
 
-.doc { padding: 24px 0 0; }
+.doc { padding-top: 24px; }
 .doc h1 { font-size: 34px; line-height: 1.15; margin: 16px 0 4px; letter-spacing: -0.01em; }
 .doc .updated { color: var(--muted); margin: 0 0 24px; }
 .doc h2 { font-size: 20px; margin: 32px 0 8px; }
